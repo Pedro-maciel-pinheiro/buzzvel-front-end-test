@@ -37,5 +37,5 @@ The application is a responsive front-end experience featuring a contact form, u
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/buzzvel-test.git
+git clone https://github.com/Pedro-maciel-pinheiro/buzzvel-front-end-test
 cd buzzvel-test
