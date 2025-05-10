@@ -21,7 +21,7 @@ export type UserCommentProps = {
     name: string;
     career: string;
     comment: string;
-    imageUrl: string;
+    imageUrl: string | StaticImageData;
   };
 
 

@@ -3,6 +3,10 @@ import icon_2 from "@/assets/icon/icon-2.png";
 import icon_3 from "@/assets/icon/icon-3.png";
 import icon_4 from "@/assets/icon/icon-4.png";
 import icon_5 from "@/assets/icon/icon-5.png";
+import user_1 from "@/assets/user-1.jpg";
+import user_2 from "@/assets/user-2.jpg";
+import user_3 from "@/assets/user-3.jpg";
+import user_4 from "@/assets/user-4.jpg";
 import heart from "@/assets/icon/heart-circle-sharp.png";
 import diamond from "@/assets/icon/diamond.png";
 import studyhead from "@/assets/icon/Icon.png";
@@ -103,28 +107,28 @@ export const comments: UserCommentProps[] = [
     career: "Spanish Language Teacher",
     comment:
       "Learning here has truly transformed my perspective. The teachers are incredible, and the classes are engaging. I’ve grown so much both personally and academically through this platform.",
-    imageUrl: "https://randomuser.me/api/portraits/women/44.jpg",
+    imageUrl: user_1,
   },
   {
     name: "Omar Hussein",
     career: "Computer Science Student",
     comment:
       "I’ve connected with people from around the world, gained skills in my field, and received support from mentors who care. This school has been a fantastic experience overall.",
-    imageUrl: "https://randomuser.me/api/portraits/men/75.jpg",
+    imageUrl: user_2,
   },
   {
     name: "Chloe Martin",
     career: "English Teacher",
     comment:
       "Teaching online has been incredibly rewarding. The students are motivated, the platform is smooth to use, and I love being part of such a diverse international learning environment.",
-    imageUrl: "https://randomuser.me/api/portraits/women/65.jpg",
+    imageUrl: user_3,
   },
   {
     name: "Takumi Watanabe",
     career: "International Business Student",
     comment:
       "The curriculum is modern and well-designed. I enjoy collaborating with students from different countries and backgrounds. It’s the perfect mix of flexibility, support, and global interaction.",
-    imageUrl: "https://randomuser.me/api/portraits/men/52.jpg",
+    imageUrl: user_4,
   },
 ];
 
