@@ -106,7 +106,7 @@ export default function NavBarDesktop() {
             >
               <button
                 id={buttonId}
-                className="flex items-center gap-1"
+                className="flex items-center gap-1 cursor-pointer active:-translate-y-1 "
                 aria-haspopup={!!item.options}
                 aria-expanded={isOpen}
                 aria-controls={menuId}
