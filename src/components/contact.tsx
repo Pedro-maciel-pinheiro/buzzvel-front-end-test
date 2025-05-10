@@ -54,7 +54,7 @@ const ContactForm: React.FC = () => {
           Ready for your next project?
         </h1>
         <p className="text-xl text-gray-100 max-w-xl">
-          Let's talk about how we can help. Send us a message and we'll get
+          Let&apos;s talk about how we can help. Send us a message and we&apos;ll get
           back to you shortly.
         </p>
       </header>

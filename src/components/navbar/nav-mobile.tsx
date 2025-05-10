@@ -5,8 +5,6 @@ import Image from "next/image";
 import {
   Sheet,
   SheetContent,
-  SheetDescription,
-  SheetFooter,
   SheetHeader,
   SheetTitle,
   SheetTrigger,

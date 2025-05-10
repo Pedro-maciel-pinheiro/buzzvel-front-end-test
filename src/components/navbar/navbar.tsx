@@ -1,9 +1,8 @@
-import { Menu } from "lucide-react";
-import Image from "next/image";
+
 import React from "react";
 import NavBarMobile from "@/components/navbar/nav-mobile";
 import NavBarDesktop from "@/components/navbar/nav-desktop";
-import Users from "../users";
+
 
 export default function NavBar() {
   return (
